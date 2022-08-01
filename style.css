@@ -79,6 +79,12 @@ body {
     padding: 10px;
     width: 100%;
 }
+.form button:hover {
+    background-color: #5b4eae;
+}
+.form button:active {
+    background-color: #3c3836;
+}
 
 .form-control.success input {
     border-color: #2ecc71;
@@ -98,3 +104,4 @@ body {
     color: #e74c3c;
     visibility: visible;
 }
+
